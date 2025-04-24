@@ -1,0 +1,21 @@
+101
+Juan Pérez
+1200.50
+101
+Juan Pérez
+850.00
+102
+Laura García
+950.75
+103
+Diego Álvarez
+1100.00
+103
+Diego Álvarez
+500.25
+103
+Diego Álvarez
+600.00
+104
+Carla Torres
+1400.00

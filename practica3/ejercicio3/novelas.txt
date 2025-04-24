@@ -1,0 +1,9 @@
+LISTADO COMPLETO DE NOVELAS (INCLUYE BORRADAS)
+---------------------------------------------
+Registro 0 | Código: -1 (Cabecera)
+Registro 1 | Código: -4 (BORRADO)
+Registro 2 | Código: 20 | Nombre: Nombre Modificado | Director: Facundo
+Registro 3 | Código: 30 | Nombre: Traga Tierra | Director: ZZZZZ
+Registro 4 | Código: 0 (BORRADO)
+Registro 5 | Código: 1020 | Nombre: Justina Novela | Director: ZZZZZ
+Registro 6 | Código: 200 | Nombre: Toy Story | Director: ZZZZZ
