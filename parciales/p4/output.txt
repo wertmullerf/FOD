@@ -1,0 +1,27 @@
+Informes de ventas de la empresa
+Sucursal 1
+Empleado DNI E01
+AÑO   Cantidad de Ventas  Monto de Ventas 
+2022  2  $21000.00
+AÑO   Cantidad de Ventas  Monto de Ventas 
+2023  2  $25000.00
+Totales         Total Ventas Empleado: 4  Monto Total Empleado: $46000.00
+Empleado DNI E02
+AÑO   Cantidad de Ventas  Monto de Ventas 
+2022  2  $18500.00
+Totales         Total Ventas Empleado: 2  Monto Total Empleado: $18500.00
+Cantidad total de ventas de la sucursal: 6
+Monto total vendido por la sucursal: $37000.00
+Sucursal 2
+Empleado DNI E03
+AÑO   Cantidad de Ventas  Monto de Ventas 
+2022  1  $8500.00
+Totales         Total Ventas Empleado: 1  Monto Total Empleado: $8500.00
+Empleado DNI E04
+AÑO   Cantidad de Ventas  Monto de Ventas 
+2023  2  $14500.00
+Totales         Total Ventas Empleado: 2  Monto Total Empleado: $14500.00
+Cantidad total de ventas de la sucursal: 3
+Monto total vendido por la sucursal: $29000.00
+Cantidad de ventas de la empresa: 9
+Monto total vendido por la empresa: $66000.00
